@@ -3,7 +3,7 @@ title: "Xのポストが伸びないのは気のせいじゃなかった｜2026�
 emoji: "🐦‍🔥"
 type: "tech"
 topics: ["x", "twitter", "ai", "sns", "アルゴリズム"]
-published: false
+published: true
 ---
 ![アイキャッチ：スマホの「おすすめ」から飛び出すPhoenixとONE](/images/01_eyecatch.jpg)
 
